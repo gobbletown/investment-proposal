@@ -69,3 +69,15 @@ interfaces.
 - The LSP server future proofs the project so that it will become an augmented reality visor for surfing the internet
 - Replacing tools like grammarly, alethea.ai (talking to SME chatbots), Copilot, duckduckgo, AI21's wordtune, etc.
 - With an integrated, private and configurable alternative, that doesn't charge you for rates on usage.
+
+** Anak — Today at 4:30 PM
+can you tell me how "imaginary function" can be reused? basically how to store one that works.
+
+** mullikine — Today at 4:31 PM
+- They are typically endpoints, and it's not the main responsibility of the prompting server to provide memoization, and reusability, though it has some capability for that.
+- Consistency is provided for imaginary functions by remembering the output of the last run, for example.
+- https://mullikine.github.io/posts/consistency-in-imaginary-programming-functions/
+- Summary I add consistency to results for prompting functions by remembering the previous output to that function and prepending it into the next prompting function prompt.
+- Prompt format addition (prepend-previous) Example prompt http://github.com/semiosis/prompts/blob/master/prompts/imagine-evaluating-emacs-lisp-2.prompt When prepend-previous ...
+- The prompting server is intended to augment basic prompting functions with advanced capabilities such as this.
+- So developers wanting to utilise GPT-3 do not have to reinvent the wheel.
