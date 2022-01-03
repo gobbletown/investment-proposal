@@ -21,6 +21,9 @@ do for the big debut, but I have big plans for the future.
 *** $100,000
 *** $500,000
 
+** Pricing model and ideas
+- [[./pricing-model-and-product-ideas.org]]
+
 ** Positioning
 Language models (LMs) are the new search engines
 and databases of the next generation of the
