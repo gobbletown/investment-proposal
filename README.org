@@ -36,7 +36,7 @@ interfaces.
 
 It also has the first integrated prompting
 server, and in the next month be deployed onto AWS to
-provide both language server and prompting
+provide both a language server and prompting
 server for incorporation into AWS cloud
 services.
 
