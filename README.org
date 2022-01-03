@@ -24,7 +24,7 @@ do for the big debut, but I have big plans for the future.
 - Marketing
 - Employ engineers to extend Pen.el with more language models
 *** $1,000,000
-- 
+- Develop a VSCode extension
 
 ** Pricing model and ideas
 - [[./pricing-model-and-product-ideas.org]]
