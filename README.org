@@ -20,6 +20,7 @@ do for the big debut, but I have big plans for the future.
 *** $50,000
 - Pay for essential hardware and AWS cloud services
 *** $100,000
+- Pay for essential hardware and AWS cloud services
 *** $500,000
 - Develop a standard web SAAS delivering the free-as-in-freedom Pen.el as a service, along with its source code
 - Marketing
