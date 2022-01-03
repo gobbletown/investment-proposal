@@ -27,33 +27,30 @@ interfaces.
 "middle of ..." list out companies or business that would fill the blank.
 
 ** mullikine — Today at 4:00 PM
-The pricing model is literally just hourly leasing of the container, at the moment
+- The pricing model is literally just hourly leasing of the container, at the moment
 ** Anak — Today at 4:00 PM
-you want to do it right now? talk on discord and go through things to write in business plan.
-15 mins are more than enough.
+- You want to do it right now? talk on discord and go through things to write in business plan. 15 mins are more than enough.
 
 ** mullikine — Today at 4:01 PM
-All software companies. It competes with GitHub Copilot
-They are positioning themselves to fine-tune language models for the upskilling of employees
+- All software companies. It competes with GitHub Copilot. They are positioning themselves to fine-tune language models for the upskilling of employees
 ** Anak — Today at 4:01 PM
-i look up copilot whitepaper. they don't have it up yet.
+- i look up copilot whitepaper. they don't have it up yet.
 
 ** mullikine — Today at 4:01 PM
-with an LSP server
-Pen.el does this transparently, and without requiring the Codex model
+- with an LSP server. Pen.el does this transparently, and without requiring the Codex model
 ** Anak — Today at 4:01 PM
-"... for the upskilling of employees" what you mean by this?
+- "... for the upskilling of employees" what you mean by this?
 
 ** mullikine — Today at 4:02 PM
-By increasing the abstraction of the underlying utilities and raising the bar for employee expectations on writing more code and being more productive
-In a previous startup I was part of, CodeLingo, this was also the vision. The way they did this was to automate bug-fixing and maintaining code standards by creating bundles of 'tenets', which were descriptions of design patterns and antipatterns, and the automation of pull requests based on those standards.
-But an LSP server would lower the barrier of onboarding into foreign codebases, for example, by providing documentation inside the editor.
-But it's not just about software development. This would help onboard readers or writers. The LSP server is an integrated accessibility tool for the web, for instant messaging, for communications, for software development, etc.
-So it's likely to become a personal assistant/agent for all computing, as the LSP protocol is employed for more types of computing interfaces.
+- By increasing the abstraction of the underlying utilities and raising the bar for employee expectations on writing more code and being more productive
+- In a previous startup I was part of, CodeLingo, this was also the vision. The way they did this was to automate bug-fixing and maintaining code standards by creating bundles of 'tenets', which were descriptions of design patterns and antipatterns, and the automation of pull requests based on those standards.
+- But an LSP server would lower the barrier of onboarding into foreign codebases, for example, by providing documentation inside the editor.
+- But it's not just about software development. This would help onboard readers or writers. The LSP server is an integrated accessibility tool for the web, for instant messaging, for communications, for software development, etc.
+- So it's likely to become a personal assistant/agent for all computing, as the LSP protocol is employed for more types of computing interfaces.
 
 ** Anak — Today at 4:07 PM
-why would the worker need lsp for that? I thought lsp server is to provides IDE like experience.
-employees have to have write prompt.el with pen.el right?
+- why would the worker need lsp for that? I thought lsp server is to provides IDE like experience.
+- employees have to have write prompt.el with pen.el right?
 ** mullikine — Today at 4:08 PM
 - They do not have write prompts, but they can.
 - But as they use the LSP server, it prompt-tunes prompts.
