@@ -1,4 +1,10 @@
 * Investment Proposal - Semiotic Limited
+** Investment possibilities
+*** $50,000
+*** $10,000
+*** $50,000
+
+** Positioning
 Language models are the new search engines
 and databases of the next generation of the
 internet, and in the last year, the number of
@@ -31,26 +37,30 @@ for instance be used to create coersive or charming conversation, by searching
 downstream LM generations, or providing a chatbot for the things you are
 currently looking at.
 
-In layman's terms, if you were
-to be speaking to somebody you like, it may
-search the virtual multiverse for things you
-might say which would result in evoking
-positive responses and outcomes from that
-person, thus enabling the development of an
-application which services the user to present
-him or her with conversational suggestions
-that are charming. In the same, way these
-types of mechanisms can be used to augment the
+In layman's terms, if you were to be speaking
+to somebody you like, it may search the
+virtual multiverse for things you might say
+which would result in evoking positive
+responses and outcomes from that person, thus
+enabling the development of an application
+which services the user to present him or her
+with conversational suggestions that are
+charming. In the same, way these types of
+mechanisms can be used to augment the
 productivity of programmers, as the LSP server
 plugs directly into the developer's editor to
 provide documentation and refactoring
 functions, and lead the developer down avenues
-of productivity. You might be perusing a museum or art gallery and wish to talk
-to a subject matter expert about what you are currently experiencing, visually,
-audibly, etc. and these inputs may be fed into world models and language models
-to provide a subject matter expert for you to converse with.
-This capability already exists in Pen.el and does so by utilising
-a combination of AlephAlpha's world model and OpenAI's GPT-3.
+of productivity. You might be perusing a
+museum or art gallery and wish to talk to a
+subject matter expert about what you are
+currently experiencing, visually, audibly,
+etc. and these inputs may be fed into world
+models and LMs to provide a subject matter
+expert for you to converse with. This
+capability already exists in Pen.el and does
+so by utilising a combination of AlephAlpha's
+world model and OpenAI's GPT-3.
 
 Semiotic builds human intelligence-augmenting
 products, and is aimed to be the backbone of
@@ -60,7 +70,3 @@ own products and services, and to make it as
 easy as possible, transparent and configurable
 to do so.
 
-* Investment possibilities
-** US $50,000
-
-** 
