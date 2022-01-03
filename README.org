@@ -11,6 +11,10 @@ internet, and in the last year, the number of
 LM software as a service has grown from 3 (OpenAI's GPT-3, for example) to
 about 20+ services (AI21, Cohere, for example).
 
+On top of this, many smaller companies are
+springing up to take advantage of LMs for a
+new generation of internet applications.
+
 Semiotic (my startup) is positioning itself
 right in the middle of that and has the first
 language server that utilises these LMs to
