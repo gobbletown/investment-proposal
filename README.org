@@ -2,7 +2,7 @@
 ** Investment possibilities
 *** $50,000
 *** $10,000
-*** $50,000
+*** $500,000
 
 ** Positioning
 Language models (LMs) are the new search engines
