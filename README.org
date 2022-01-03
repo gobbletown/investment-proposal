@@ -49,7 +49,7 @@ of productivity. You might be perusing a museum or art gallery and wish to talk
 to a subject matter expert about what you are currently experiencing, visually,
 audibly, etc. and these inputs may be fed into world models and language models
 to provide a subject matter expert for you to converse with.
-This capability exists currently and is already built into Pen.el and utilises
+This capability already exists in Pen.el and utilises
 AlephAlpha's world model and OpenAI's GPT-3 to do so.
 
 Semiotic builds human intelligence-augmenting
