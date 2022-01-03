@@ -9,7 +9,7 @@ Language models (LMs) are the new search engines
 and databases of the next generation of the
 internet, and in the last year, the number of
 LM software as a service has grown from 3 to
-about 20+ services
+about 20+ services.
 
 Semiotic (my startup) is positioning itself
 right in the middle of that and has the first
