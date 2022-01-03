@@ -42,7 +42,10 @@ services.
 
 The company will generate revenue from the
 leasing of the docker container, and from
-support services.
+support services, but will have zero fees and
+zero visibility on the prompts which are run.
+It's a private and configurable server for
+prompting.
 
 Pen.el is Semiotic's flagship product. It can be tailored (with language model
 fine-tuning) to each individual company's requirements, and as an example, can
