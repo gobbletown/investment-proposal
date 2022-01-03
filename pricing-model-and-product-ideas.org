@@ -3,7 +3,6 @@
 you have time for quick question? its about payment plans. I want to have some numbers
 
 ** mullikine — Today at 3:56 PM
-Oh yup
 I was thinking like 6c /hour , similar to datomic
 it might be a good idea to look at the datomic pricing model
 
