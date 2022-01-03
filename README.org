@@ -5,7 +5,7 @@
 *** $50,000
 
 ** Positioning
-Language models are the new search engines
+Language models (LMs) are the new search engines
 and databases of the next generation of the
 internet, and in the last year, the number of
 LM software as a service has grown from 3 to
@@ -14,9 +14,9 @@ about 20+ services
 Semiotic (my startup) is positioning itself
 right in the middle of that and has the first
 language server that utilises these LMs to
-provide human-intelligence-enabling functions
+provide human-intelligence augmenting functions
 to VSCode, web browsers and other computing
-interfaces utilising LMs and world models.
+interfaces.
 
 It also has the first integrated prompting
 server, and in the next month be deployed onto AWS to
@@ -28,15 +28,26 @@ The company will generate revenue from the
 leasing of the docker container, and from
 support services.
 
-Pen.el, Semiotic's flagship product can be tailored (with language model
+Pen.el is Semiotic's flagship product. It can be tailored (with language model
 fine-tuning) to each individual company's requirements, and as an example, can
-provide documentation, chatbots and imaginary languages for interacting with
-almost any topic under the Sun. This is among a virtually limitless number of
-other functions and services that Pen.el also has built support for.  It may,
-for instance be used to create coersive or charming conversation, by searching
-downstream LM generations, or providing a chatbot for the things you are
-currently looking at.
+provide documentation, chatbots and imaginary
+languages, and other futuristic human-computer
+interfaces for interacting intelligently within almost any
+topic or context conceivable. It may, for instance be used to create
+coersive or charming conversation, by
+searching downstream LM generations, or
+providing a chatbot for the things you are
+currently looking at, physically (in real life) or virtually (in an AI generated world-wide-web).
 
+Semiotic builds human intelligence-augmenting
+products, and is aimed to be the backbone of
+other startups and businesses that want to
+utilisise GPT-3 or any other LM within their
+own products and services, and to make it as
+easy as possible, transparent and configurable
+to do so.
+
+*** Example use-cases
 In layman's terms, if you were to be speaking
 to somebody you like, it may search the
 virtual multiverse for things you might say
@@ -45,7 +56,9 @@ responses and outcomes from that person, thus
 enabling the development of an application
 which services the user to present him or her
 with conversational suggestions that are
-charming. In the same, way these types of
+charming.
+
+In the same, way these types of
 mechanisms can be used to augment the
 productivity of programmers, as the LSP server
 plugs directly into the developer's editor to
@@ -57,16 +70,9 @@ subject matter expert about what you are
 currently experiencing, visually, audibly,
 etc. and these inputs may be fed into world
 models and LMs to provide a subject matter
-expert for you to converse with. This
-capability already exists in Pen.el and does
-so by utilising a combination of AlephAlpha's
-world model and OpenAI's GPT-3.
+expert for you to converse with.
 
-Semiotic builds human intelligence-augmenting
-products, and is aimed to be the backbone of
-other startups and businesses that want to
-utilisise GPT-3 or any other LM within their
-own products and services, and to make it as
-easy as possible, transparent and configurable
-to do so.
+These capabilities already exists in Pen.el, awaiting deployment to AWS and manages it
+by utilising a combination of AlephAlpha's
+world model, OpenAI's GPT-3 and other models.
 
