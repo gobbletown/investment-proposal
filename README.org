@@ -25,6 +25,8 @@ do for the big debut, but I have big plans for the future.
 - Employ engineers to extend Pen.el with more language models
 *** $1,000,000
 - Develop a VSCode extension
+- Develop a cryptocurrencty
+  - https://semiosis.github.io/protocol/
 
 ** Pricing model and ideas
 - [[./pricing-model-and-product-ideas.org]]
