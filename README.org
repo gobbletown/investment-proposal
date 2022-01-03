@@ -81,3 +81,5 @@ These capabilities already exist in Pen.el, awaiting deployment to AWS and manag
 by utilising a combination of AlephAlpha's
 world model, OpenAI's GPT-3 and other models.
 
+** Expression of interest
+If you would like to talk more about investing in Semiotic, please contact me at [[mailto:mullikine@gmail.com]].
