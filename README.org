@@ -8,8 +8,8 @@
 Language models (LMs) are the new search engines
 and databases of the next generation of the
 internet, and in the last year, the number of
-LM software as a service has grown from 3 to
-about 20+ services.
+LM software as a service has grown from 3 (OpenAI's GPT-3, for example) to
+about 20+ services (AI21, Cohere, for example).
 
 Semiotic (my startup) is positioning itself
 right in the middle of that and has the first
