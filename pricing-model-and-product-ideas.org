@@ -55,21 +55,21 @@ So it's likely to become a personal assistant/agent for all computing, as the LS
 why would the worker need lsp for that? I thought lsp server is to provides IDE like experience.
 employees have to have write prompt.el with pen.el right?
 ** mullikine — Today at 4:08 PM
-They do not have write prompts, but they can.
-But as they use the LSP server, it prompt-tunes prompts.
-The docker container for lease provides both an LSP server and a prompting server.
-The prompting server may be used to trivially integrate GPT-3 into other applications.
-To lower the time in which it takes to develop chatbot services, for example, or to lower the speed at which web services can be created by providing imaginary functions to mock APIs etc.
-Or to search the web
-A prompting server lets you utilise language models in your applications without onboarding people into learning how to do prompt engineering
-And it makes the learning process for figuring out how to utilise GPT-3 much easier
-So trivial in fact that you don't even need to write prompts. You can just write imaginary functions instead
-which may be defined by function name alone, and integrate that into your language via a simple command line interface
-which makes it trivial to integrate into any language
-Whilst Pen.el takes care of things like, handling what language models you are using, caching of prompts, coherence of subsequent prompts, etc.
-It's a prompting server with many options for configuration
-And its capabilities can be provided to VSCode or any editor supporting LSP (which is all of them) so all employees can be utilising the capabilities of GPT-3/Codex/etc. or a company's private model, or a private fine-tuned Codex model, taking advantage of the power of Codex, etc. to lower the barrier to writing code.
-The prompting server can also be used as a factor to be incorporated into search engines.
-The LSP server future proofs the project so that it will become an augmented reality visor for surfing the internet
-Replacing tools like grammarly, alethea.ai (talking to SME chatbots), Copilot, duckduckgo, AI21's wordtune, etc.
-With an integrated, private and configurable alternative, that doesn't charge you for rates on usage.
+- They do not have write prompts, but they can.
+- But as they use the LSP server, it prompt-tunes prompts.
+- The docker container for lease provides both an LSP server and a prompting server.
+- The prompting server may be used to trivially integrate GPT-3 into other applications.
+- To lower the time in which it takes to develop chatbot services, for example, or to lower the speed at which web services can be created by providing imaginary functions to mock APIs etc.
+- Or to search the web
+- A prompting server lets you utilise language models in your applications without onboarding people into learning how to do prompt engineering
+- And it makes the learning process for figuring out how to utilise GPT-3 much easier
+- So trivial in fact that you don't even need to write prompts. You can just write imaginary functions instead
+- which may be defined by function name alone, and integrate that into your language via a simple command line interface
+- which makes it trivial to integrate into any language
+- Whilst Pen.el takes care of things like, handling what language models you are using, caching of prompts, coherence of subsequent prompts, etc.
+- It's a prompting server with many options for configuration
+- And its capabilities can be provided to VSCode or any editor supporting LSP (which is all of them) so all employees can be utilising the capabilities of GPT-3/Codex/etc. or a company's private model, or a private fine-tuned Codex model, taking advantage of the power of Codex, etc. to lower the barrier to writing code.
+- The prompting server can also be used as a factor to be incorporated into search engines.
+- The LSP server future proofs the project so that it will become an augmented reality visor for surfing the internet
+- Replacing tools like grammarly, alethea.ai (talking to SME chatbots), Copilot, duckduckgo, AI21's wordtune, etc.
+- With an integrated, private and configurable alternative, that doesn't charge you for rates on usage.
