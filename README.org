@@ -72,7 +72,7 @@ etc. and these inputs may be fed into world
 models and LMs to provide a subject matter
 expert for you to converse with.
 
-These capabilities already exists in Pen.el, awaiting deployment to AWS and manages it
+These capabilities already exist in Pen.el, awaiting deployment to AWS and manages it
 by utilising a combination of AlephAlpha's
 world model, OpenAI's GPT-3 and other models.
 
