@@ -23,6 +23,7 @@ do for the big debut, but I have big plans for the future.
 - Develop a standard web SAAS delivering the free-as-in-freedom Pen.el as a service, along with its source code
 - Marketing
 - Employ engineers to extend Pen.el with more language models
+*** $5,000,000
 
 ** Pricing model and ideas
 - [[./pricing-model-and-product-ideas.org]]
