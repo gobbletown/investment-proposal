@@ -48,7 +48,7 @@ functions, and lead the developer down avenues
 of productivity. You might be perusing a museum or art gallery and wish to talk
 to a subject matter expert about what you are currently experiencing, visually,
 audibly, etc. and these inputs may be fed into world models and language models
-to provide a subject matter expert for you to talk to.
+to provide a subject matter expert for you to converse with.
 This capability exists currently and is already built into Pen.el and utilises
 AlephAlpha's world model and OpenAI's GPT-3 to do so.
 
@@ -59,3 +59,5 @@ utilisise GPT-3 or any other LM within their
 own products and services, and to make it as
 easy as possible, transparent and configurable
 to do so.
+
+* Investmentl
